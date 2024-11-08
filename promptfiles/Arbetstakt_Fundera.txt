@@ -1,0 +1,9 @@
+{"introduction": "En avdelning som upplever problem med arbetstakt kan ha svårt att nå sina mål och uppnå sin potential. Förbättra arbetstakt är därför viktigt för en effektiv och produktiv arbetsplats.", 
+"conclusion": "Genom att genomföra följande aktiviteter kan avdelningen återgå till en god arbetstakt:", 
+"activities": [
+{"title": "Fokus på prioriteringar", 
+"description": "Avdelningen ska identifiera sina mest viktiga uppgifter och fokusera på dem. Detta hjälper att minska stressen och öka effektiviteten."},
+{"title": "Tidsplanering", 
+"description": "Varje medlem i avdelningen ska skapa en tidsplan för sin dagliga verksamhet, vilket hjälper till att prioritera uppgifter och minimera tidspillning."},
+{"title": "Feedback och samarbete", 
+"description": "Avdelningen ska erbjuda regelbunden feedback till varandra, vilket hjälper till att identifiera problem och återgå till en god arbetstakt."}]}

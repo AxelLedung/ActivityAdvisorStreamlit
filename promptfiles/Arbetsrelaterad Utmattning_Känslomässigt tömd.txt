@@ -1,0 +1,10 @@
+{"introduction": "Många avdelningar i organisationer upplever problemet med arbetsrelaterad utmattning bland sina anställda. En vanlig kategori som många av de anställda har svarat att följande kategori är ett problem: Känslomässigt tömd.\r\nEnligt forskningen kan denna typ av utmattning leda till minskad produktivitet, ökad sjukfrånvaro och negativa konsekvenser för anställdas välbefinnande. Det är därför viktigt att identifiera orsakerna bakom detta problem och genomföra åtgärder för att minska risken för arbetsrelaterad utmattning.\r\nEn avdelning kan göra följande aktiviteter för att förbättra situationen:\r\n", 
+"activities": [
+{"title": "Genomför en undersökning om anställdas arbetsbelastningar och upplevelser", 
+"description": "Gör en kartläggning av hur mycket tid som läggs på olika aktiviteter, vilken typ av arbete som utförs under dagen och hur anställde upplever sin arbetslast. Detta kan hjälpa till att identifiera eventuella problemområden och ge möjlighet att genomföra åtgärder för att minska risken för utmattning."},
+{"title": "Anordna regelbundna avslappnande aktiviteter", 
+"description": "Organiserar regelbunda aktiviteter som kan hjälpa till att reducera stress och öka välbefinnandet, såsom yoga, meditation eller promenader. Detta kan också ge anställde möjlighet att bygga sociala relationer med kollegor."},
+{"title": "Genomför utbildning om stresshantering", 
+"description": "Anordnar utbildningar och workshops som fokuserar på stresshantering, time management och prioritering. Detta kan hjälpa anställde att hantera sina uppgifter effektivare och minska risken för utmattning."}
+], 
+"conclusion": ""}

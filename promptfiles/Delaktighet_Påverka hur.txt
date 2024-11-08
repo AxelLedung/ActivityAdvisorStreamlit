@@ -1,0 +1,9 @@
+{"introduction": "En avdelning kan förbättra delaktighet genom att engagera sina anställda i aktiviteter som främjar samarbete och kommunikation.", 
+"conclusion": "", 
+"activities": [
+    {"title": "Kreativt arbetsmöte", 
+     "description": "Håll ett kreativt arbetsmöte där alla anställda är inbjudna att delta. Låta dem komma med idéer och lösningar på aktuella utmaningar."},
+    {"title": "Team-building-aktiviteter", 
+     "description": "Organisera team-building-aktiviteter som bygger broar mellan kollegor, till exempel en dag på naturreservatet eller en gemensam lunch"},
+    {"title": "Feedback-cirkeln", 
+     "description": "Starta en feedback-cirkel där alla anställda kan ge och ta emot återkoppling om sina prestationer"}]} 

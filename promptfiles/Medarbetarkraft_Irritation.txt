@@ -1,0 +1,9 @@
+{"introduction": "En avdelning som vill förbättra medarbetarkraft kan genomföra följande aktiviteter för att minska irritation bland anställda.", 
+"conclusion": "", 
+"activities": [
+    {"title": "Ange och hantera orsaker till irritation", 
+     "description": "Genomföra en undersökning om var irritationen kommer ifrån, identifiera de mest vanliga orsakerna och ta åtgärder för att minska dem. Det kan handla om att ändra arbetsprocesser, ge mer utrymme eller stöd till anställda."},
+    {"title": "Fokusera på medarbetarengagemang", 
+     "description": "Ge anställda möjlighet att engagera sig i avdelningens verksamhet genom att bjuda in dem till beslutsfattande, ge dem ansvar för specifika uppgifter eller erbjuda utbildningsmöjligheter."},
+    {"title": "Förbättra kommunikation", 
+     "description": "Se till att alla anställda har rätt information och kommunicerar effektivt med varandra. Det kan handla om att använda digitala verktyg, genomföra regelbundna möten eller skapa en öppen och transparent kultur."}]} 

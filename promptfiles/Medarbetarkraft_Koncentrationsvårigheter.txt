@@ -1,0 +1,9 @@
+{"introduction": "Många avdelningar står inför utmaningar att förbättra medarbetarkraft och motivation bland sina anställda. Ett vanligt problem är koncentrationsvårigheter, som kan påverka både individernas prestationer och organisationens totala effektivitet.", 
+"conclusion": "Genom att genomföra aktiviteter som stimulerar medarbetare till engagemang och motivation kan avdelningarna arbeta mot dessa utmaningar. Nedan följer tre förslag på aktiviteter som kan hjälpa till att övervinna koncentrationsvårigheter.", 
+"activities": [
+{"title": "Fördelade arbetsuppgifter", 
+"description": "Genom att dela upp stora projekt i mindre, mer hanterbara uppgifter kan medarbetare känna sig mer motiverade och koncentrerade."},
+{"title": "Mellanlagd feedback", 
+"description": "Regelbunden feedback från ledningen eller kollegor kan hjälpa till att skapa en positiv atmosfär och stimulera medarbetarna till engagemang."}, 
+{"title": "Fysiska aktiviteter under arbetsdag", 
+"description": "Att ta korta pauser för fysiska aktiviteter, som promenader eller yoga, kan hjälpa till att öka energinivåerna och koncentrationen bland medarbetarna"}]}

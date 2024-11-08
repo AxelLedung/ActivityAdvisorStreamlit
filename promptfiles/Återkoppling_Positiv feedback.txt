@@ -1,0 +1,10 @@
+{"introduction": "En avdelning kan förbättra återkoppling genom att initiera aktiviteter som stimulerar anställdas engagemang och delaktighet.", 
+"conclusion": "", 
+"activities": [
+    {"title": "Utveckla en feedbackkultur", 
+     "description": "En avdelning kan utveckla en kulturbaserad på positiv återkoppling genom att uppmuntra anställda att ge och ta emot konstruktiv feedback."},
+    {"title": "Använda tekniska verktyg för återkoppling", 
+     "description": "En avdelning kan använda digitala verktyg, som till exempel 360-gradersfeedback eller peer-to-peer-utveckling, för att underlätta och strukturera återkopplingsprocessen."},
+    {"title": "Skapa en återkopplingsserie", 
+     "description": "En avdelning kan skapa en serie med aktiviteter som fokuserar på återkoppling, till exempel workshopar eller seminarier, för att stimulera anställdas engagemang och delaktighet i processen."}
+]}

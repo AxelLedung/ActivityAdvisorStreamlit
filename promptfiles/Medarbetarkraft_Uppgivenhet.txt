@@ -1,0 +1,9 @@
+{"introduction": "En avdelning som vill förbättra medarbetarkraften kan genomföra följande aktiviteter.", 
+"conclusion": "", 
+"activities": [
+    {"title": "Förståelse och erkännande", 
+     "description": "Ett sätt att öka engagemanget är att förstå hur anställda känner sig. Detta kan ske genom enkätundersökningar, fokusgrupper eller individuella samtal. När man har en bättre förståelse för varje medarbetares behov och oroer kan man börja bygga relationer och erkänna deras insatser."},
+    {"title": "Ledarskap och kommunikation", 
+     "description": "Ett annat sätt att öka engagemanget är genom ledarskapsutveckling. Detta kan ske genom coachning, mentorprogram eller ledarutbildningar. Kommunikationen mellan chefer och medarbetare ska också vara tydlig, transparent och inkluderande."},
+    {"title": "Möjligheter till utveckling", 
+     "description": "En annan aktivitet som kan öka engagemanget är att erbjuda möjligheter till utveckling. Detta kan ske genom utbildningar, workshops eller mentorprogram. När medarbetare känner sig delaktiga i sin egen utveckling och har möjligheterna att växa inom företaget ökar sannolikt deras engagemang."}]}

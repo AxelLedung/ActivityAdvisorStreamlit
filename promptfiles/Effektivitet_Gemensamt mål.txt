@@ -1,0 +1,9 @@
+{"introduction": "Många avdelningar i organisationer upplever problem med effektivitet på grund av bristande samarbete och gemensamma mål. För att förbättra denna situation kan en avdelning genomföra följande aktiviteter:", 
+"conclusion": "", 
+"activities": [
+{"title": "Genomför en workshop om gemensamma mål", 
+"description": "En workshop är ett bra sätt att samla alla anställda och diskutera vilka gemensamma mål som ska uppnås. Detta hjälper till att skapa en klar vision för avdelningen och öka engagemanget bland medlemmarna."},
+{"title": "Skapa ett system för målefterfrågan", 
+"description": "Ett system för målefterfrågan kan hjälpa till att följa upp på hur väl avdelningens gemensamma mål uppnås. Detta kan vara i form av en rapport eller en presentation som presenteras regelbundet."},
+{"title": "Genomför en översyn av arbetsprocesser", 
+"description": "En översyn av arbetsprocesser kan hjälpa till att identifiera områden där effektiviteten kan förbättras. Detta kan vara genom att analysera hur olika uppgifter och aktiviteter utförs i dag."}]}

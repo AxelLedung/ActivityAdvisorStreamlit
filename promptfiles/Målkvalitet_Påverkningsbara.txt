@@ -1,0 +1,9 @@
+{"introduction": "Påverkningsbara är ett problem som många avdelningar i organisationer står inför. Det kan vara svårt att förbättra målkvalitet när anställda inte känner sig involverade och påverkade av sina arbetsuppgifter.\r\n", 
+"conclusion": "Genom att genomföra aktiviteter som ökar påverkningsbarheten kan avdelningen bidra till en förbättring av målkvalitet. Nedan följer tre förslag på aktiviteter som kan hjälpa.", 
+"activities": [
+{"title": "Använda medarbetarnas idéer och erfarenheter", 
+"description": "Ge anställda möjlighet att delta i beslutsfattande processen genom att använda deras idéer och erfarenheter. Detta kan ske genom workshops, brainstorming-sessions eller andra former av samarbete."},
+{"title": "Utveckla ledarskapet", 
+"description": "Ett starkt ledarskap är avgörande för en påverkningsbar organisation. Genom att utveckla ledarnas kompetens och förmåga kan de bättre möta sina anställdas behov och öka påverkningsbarheten."},
+{"title": "Skapa en kultur av feedback", 
+"description": "Feedback är ett viktigt verktyg för att öka påverkningsbarheten. Genom att skapa en kultur där alla kan ge och ta emot feedback kan organisationen stimulera engagemang, motivation och utveckling."}]}

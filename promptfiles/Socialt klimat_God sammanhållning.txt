@@ -1,0 +1,9 @@
+{"introduction": "En avdelning som upplever problem med god sammanhållning kan genomföra följande aktiviteter för att förbättra sitt sociala klimat:", 
+"conclusion": "", 
+"activities": [
+    {"title": "Organiserad lunch", 
+     "description": "En avdelning som har problem med god sammanhållning kan genomföra en organiserad lunch. Detta kan vara ett sätt att få alla anställda att träffas och prata om sina intressen utom arbetsrelaterade ämnen."}, 
+    {"title": "Team-building-aktiviteter", 
+     "description": "En annan aktivitet som kan hjälpa till att förbättra sammanhållningen är team-building-aktiviteter. Detta kan vara något så enkelt som en utomhuslek eller en spelkväll, men det kan också vara mer komplexa aktiviteter som kräver samarbete och kommunikation."}, 
+    {"title": "Mötesordning", 
+     "description": "En annan aktivitet som kan hjälpa till att förbättra sammanhållningen är en mötesordning. Detta kan vara ett sätt att ge alla anställda chansen att prata om sina idéer och åsikter, vilket kan bidra till bättre samarbete och kommunikation."}]}

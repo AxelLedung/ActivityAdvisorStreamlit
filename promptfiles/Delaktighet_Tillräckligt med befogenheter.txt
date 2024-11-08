@@ -1,0 +1,9 @@
+{"introduction": "En avdelning kan förbättra delaktighet genom att implementera aktiviteter som stimulerar anställdas engagemang och motivation.", 
+"conclusion": "", 
+"activities": [
+    {"title": "Befogenhetsutveckling", 
+     "description": "En avdelning kan erbjuda befogenhetsutvecklingsprogram för att ge anställda möjlighet att utveckla sina färdigheter och kompetenser."},
+    {"title": "Mötesdeltagande", 
+     "description": "Avdelningen kan ordna regelbundet möten där alla medarbetare har chansen att delta, diskutera och bidra till beslutsfattandet."},
+    {"title": "Resultatrapportering", 
+     "description": "En avdelning kan rapportera resultaten från anställdas arbete för att visa på deras betydelse och insats."}]}

@@ -1,0 +1,9 @@
+{"introduction": "En avdelning kan förbättra delaktighet bland anställda genom att utveckla aktiviteter som främjar engagemang och gemenskap.", 
+"conclusion": "", 
+"activities": [
+    {"title": "Förbättra kommunikation", 
+     "description": "En avdelning kan förbättra delaktighet bland anställda genom att utveckla en effektivare kommunikationsstrategi. Detta kan ske genom regelbundna möten, återkoppling och feedback."},
+    {"title": "Utveckla ledarskap", 
+     "description": "En avdelning kan förbättra delaktighet bland anställda genom att utveckla ett ledarskap som uppmuntrar engagemang. Detta kan ske genom att ge möjligheter till självständiga projekt, återkoppling och feedback."},
+    {"title": "Organisera teambuilding", 
+     "description": "En avdelning kan förbättra delaktighet bland anställda genom att organisera teambuilding-aktiviteter som främjar gemenskap. Detta kan ske genom att plantera aktiviteter som bygger på samarbete, kommunikation och teamwork."}]}

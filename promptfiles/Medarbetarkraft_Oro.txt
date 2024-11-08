@@ -1,0 +1,9 @@
+{"introduction": "Många avdelningar i organisationer upplever problemet med oro bland sina anställda. Det är viktigt att identifiera orsakerna till detta och ta åtgärder för att minska stressen och öka motivationen hos personalen.", 
+"conclusion": "", 
+"activities": [
+{"title": "Organiserad fysisk aktivitet", 
+"description": "En avdelning kan organisera en gemensam fysiska aktivitet, som till exempel yoga eller jogging, för att hjälpa anställda att slappna av och minska stressen."},
+{"title": "Mental hälsa-kampanj", 
+"description": "Avdelningen kan starta en kampanj för mental hälsa genom att erbjuda kurser i mindfulness, meditation eller andra aktiviteter som hjälper anställda att hantera oro och stress."},
+{"title": "Anonymt feedback-system", 
+"description": "En avdelning kan implementera ett anonymt feedback-system där personalen kan dela sina oron och bekymmer utan risk för repressalier. Detta kan hjälpa till att minska stressen genom att ge anställda en möjlighet att uttrycka sig fritt."}]}

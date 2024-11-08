@@ -1,0 +1,10 @@
+{"introduction": "En avdelning som vill förbättra sitt medarbetarskap kan göra följande aktiviteter:", 
+"conclusion": "", 
+"activities": [
+    {"title": "Anordna workshops och seminarier", 
+     "description": "Genom att anordna workshops och seminarier kan avdelningen ge sina anställda möjlighet att utvecklas i ledarskap, kommunikation och teamwork. Detta kan hjälpa till att öka medarbetarnas motivation och engagemang."},
+    {"title": "Skapa en mentorprogram", 
+     "description": "Ett mentorprogram kan hjälpa nya anställda att komma in i organisationen snabbare och ge dem stöd för sin karriärutveckling. Detta kan också hjälpa till att öka medarbetarnas känsla av tillhörighet."},
+    {"title": "Anordna teambuilding-aktiviteter", 
+     "description": "Teambuilding-aktiviteter kan hjälpa till att stärka samarbete och teamwork inom avdelningen. Detta kan öka medarbetarnas motivation, engagemang och känsla av tillhörighet."}
+]}

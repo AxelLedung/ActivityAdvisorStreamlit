@@ -1,0 +1,10 @@
+{"introduction": "En avdelning som vill förbättra medarbetarskapet kan göra följande aktiviteter för att hantera ansvar för kompetens.", 
+"conclusion": "", 
+"activities": [
+    {"title": "Utveckla en mentorprogram", 
+     "description": "Ett mentorprogram kan hjälpa nya anställda att snabbt komma in i sin roll och ge dem möjlighet till personlig utveckling."},
+    {"title": "Anordna workshops för kompetensutveckling", 
+     "description": "Workshops kan erbjuda anställda en chans att lära sig nya färdigheter, dela erfarenheter och bygga nätverk med kollegor."},
+    {"title": "Skapa en peer-to-peer-trainingsprogram", 
+     "description": "Ett program där anställda kan utbilda varandra i olika områden kan hjälpa till att sprida kunskap och erfarenhet inom avdelningen."}
+]}

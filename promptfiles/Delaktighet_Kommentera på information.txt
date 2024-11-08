@@ -1,0 +1,9 @@
+{"introduction": "En avdelning kan förbättra delaktighet genom att initiera aktiviteter som stimulerar engagemang och kommunikation bland anställda.", 
+"conclusion": "", 
+"activities": [
+    {"title": "Skapa en medarbetareventyr", 
+     "description": "Organisera en eventserie där alla anställda kan delta, till exempel en julefest eller en sommarfest. Detta ger möjlighet att bygga relationer och skapa minnen."},
+    {"title": "Starta en ideérna-kanal", 
+     "description": "Skapa ett digitalt forum där alla anställda kan dela sina idéer, frågor eller problem. Detta stimulerar kommunikation och samarbete."},
+    {"title": "Anordna workshops och seminarier", 
+     "description": "Organisera workshops och seminarier på olika ämnen som är relevant för avdelningen. Dessa event kan hjälpa till att bygga kompetens och engagemang."}]}

@@ -1,0 +1,9 @@
+{"introduction": "En avdelning som vill förbättra arbetstakt kan genomföra följande aktiviteter:\n", 
+"conclusion": "", 
+"activities": [
+    {"title": "Fokusgrupper", 
+     "description": "Skapa fokusgrupper med anställda från olika avdelningar och ge dem i uppgift att identifiera hinder för en effektiv arbetstakt. Grupperna ska sedan presentera sina fynd och rekommendationer till ledningen."}, 
+    {"title": "Time management-träning", 
+     "description": "Anordna time management-träningsprogram för anställda som vill lära sig effektivt hantera sin tid. Detta kan hjälpa dem att prioritera uppgifter, minska stress och öka produktiviteten."}, 
+    {"title": "Arbetssätt-analys", 
+     "description": "Gör en analys av arbetssätten i avdelningen för att identifiera möjliga effektiviseringsmöjligheter. Detta kan hjälpa ledningen att fastställa prioriteringar och ta beslut om hur resurser ska användas."}]} 

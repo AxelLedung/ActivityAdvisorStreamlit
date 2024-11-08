@@ -1,0 +1,10 @@
+{"introduction": "En avdelning som vill förbättra sitt medarbetarskap kan genomföra följande aktiviteter:\n", 
+"conclusion": "", 
+"activities": [
+    {"title": "Ange ansvariga personer och roller", 
+     "description": "Definiera vilka personer som är ansvariga för olika uppgifter och roller inom avdelningen. Detta hjälper till att klargöra vem som ska göra vad, när och hur."}, 
+    {"title": "Skapa en tydlig kommunikationsplan", 
+     "description": "Utveckla en plan för hur information ska delas ut inom avdelningen. Detta kan inkludera regelbundna möten, e-post eller andra former av kommunikation."}, 
+    {"title": "Genomföra regelbunda feedback och uppföljningar", 
+     "description": "Ge återkoppling till medarbetarna om deras prestationer och arbeta tillsammans för att identifiera utvecklingsområden."}
+]} 

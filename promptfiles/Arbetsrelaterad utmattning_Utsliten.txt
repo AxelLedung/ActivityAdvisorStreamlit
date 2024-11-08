@@ -1,0 +1,9 @@
+{"introduction": "En avdelning som upplever arbetsrelaterad utmattning kan ha svårt att nå sina mål och skapa en positiv arbetsklimat. För att förbättra situationen kan följande aktiviteter genomföras:", 
+"conclusion": "", 
+"activities": [
+{"title": "Genomföra regelbundna personalmöten", 
+"description": "Genomföra regelbundna möten med alla anställda för att lyssna på deras synpunkter och idéer om hur arbetsbelastningen kan minskas. Detta hjälper till att bygga en starkare teamkänsla och öka motivationen."},
+{"title": "Anpassa arbetet efter individuella behov", 
+"description": "identifiera de anställdas individuella behov och anpassa arbetsuppgifterna därefter. Detta kan innebära att ge vissa uppgifter till andra medarbetare eller att skapa flexibla arbetssätt."},
+{"title": "Erbjuda stöd för personlig utveckling", 
+"description": "erbjud anställda möjligheterna att delta i kurser, workshops och andra aktiviteter som kan hjälpa dem att utvecklas professionellt. Detta kan öka motivationen och minska arbetsrelaterad utmattning."}]}

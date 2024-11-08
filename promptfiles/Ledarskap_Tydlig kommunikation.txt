@@ -1,0 +1,9 @@
+{"introduction": "En avdelning som vill förbättra sitt ledarskap kan göra följande aktiviteter för att åtgärda problemet med tydlig kommunikation.", 
+"conclusion": "", 
+"activities": [
+    {"title": "Använda en enhetlig språkprofil", 
+     "description": "Genom att använda sig av en enhetlig språkprofil kan ledarna i avdelningen skapa en tydlig och konsekvent kommunikation med sina anställda. Detta kan uppnås genom att fastställa ett standardiserat språk för alla interna kommunikationer."},
+    {"title": "Hämta feedback från anställdarna", 
+     "description": "Genom att hämta feedback från sina anställda kan ledarna i avdelningen få en bättre förståelse för hur de kommunicera och vilka behov som finns. Detta kan uppnås genom att genomföra regelbundna möten med anställde och fråga om deras synpunkter på kommunikationen."},
+    {"title": "Använda visualiseringar för att förklara komplex information", 
+     "description": "Genom att använda sig av visualiseringar kan ledarna i avdelningen förklara komplex information på ett enkelt och tydligt sätt. Detta kan uppnås genom att använda diagram, tabeller eller andra visuella hjälpmedel."}]}

@@ -1,0 +1,9 @@
+{"introduction": "En avdelning kan förbättra lärande i arbetet genom att identifiera och åtgärda problem som yrkesmässigt utvecklas bland anställda.", 
+"conclusion": "", 
+"activities": [
+    {"title": "Utveckla ledarskap", 
+     "description": "En avdelning kan erbjuda ledarutbildningar och coachning för att hjälpa chefer och teamledare utvecklas i sina yrkesmässiga färdigheter."},
+    {"title": "Anpassa arbetsuppgifter", 
+     "description": "En avdelning kan analysera arbetsuppgifterna och anpassa dem för att passa bättre till individernas styrkor, svagheter och intressen."}, 
+    {"title": "Etablera en lärande kultur", 
+     "description": "En avdelning kan etablera en lärande kultur genom att uppmuntra delaktighet, feedback och experimentering i arbetet"}]} 

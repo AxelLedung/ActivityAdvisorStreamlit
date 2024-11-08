@@ -1,0 +1,9 @@
+{"introduction": "En avdelning som vill förbättra medarbetarkraft kan identifiera och åtgärda problem som påverkar anställdas motivation och engagemang. Ett vanligt problem är rastlöshet, vilket många anställda rapporterat om.", 
+"conclusion": "Genom att genomföra aktiviteter som ökar medarbetarnas delaktighet och meningsskapande kan avdelningen förbättra sin medarbetarkraft. Dessa aktiviteter hjälper till att minska rastlöshet bland anställda.", 
+"activities": [
+{"title": "Skapa en vision", 
+"description": "Envisionering är ett sätt att skapa mening och delaktighet bland anställda. Avdelningen kan samla alla medarbetare för att skapa en gemensam vision om avdelningens mål och värderingar."}, 
+{"title": "Ge flexibelt arbetssätt", 
+"description": "Flexibilitet i arbetsuppgifterna kan hjälpa till att minska rastlöshet bland anställda. Avdelningen kan erbjuda olika typer av uppgifter och möjligheter för medarbetarna att utveckla sina färdigheter."}, 
+{"title": "Framhåll teambuilding", 
+"description": "Teambyggande aktiviteter kan hjälpa till att skapa en starkare gemenskap bland anställda. Avdelningen kan organisera olika typer av teambuildings, som exempelvis utomhusaktiviteter eller sociala evenemang."}]}

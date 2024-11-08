@@ -1,0 +1,9 @@
+{"introduction": "En avdelning som vill förbättra målkvalitet kan genomföra följande aktiviteter.", 
+"conclusion": "", 
+"activities": [
+    {"title": "Definiera tydliga mål", 
+     "description": "Förbättra målkvalitet genom att definiera tydliga och uppföljbara mål för avdelningen. Detta hjälper till att skapa en klar vision om vad som ska åstadkommas och hur det ska mätas."}, 
+    {"title": "Utveckla måleffekter", 
+     "description": "Identificera de mest effektiva sättet för avdelningen att uppnå sina mål. Detta kan innebära att utveckla nya processer, metoder eller verktyg."}, 
+    {"title": "Följ upp och justera", 
+     "description": "Regelbundet följ efter hur avdelningens prestationar utvecklas mot målen. Justera sedan strategier och åtgärder som behövs för att uppnå målet."}]} 

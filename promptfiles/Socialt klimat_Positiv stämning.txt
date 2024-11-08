@@ -1,0 +1,9 @@
+{"introduction": "En avdelning kan förbättra sitt sociala klimat genom att implementera aktiviteter som främjar positiva känslor och samarbete bland anställda.", 
+"conclusion": "", 
+"activities": [
+    {"title": "Föreläsningar om stresshantering", 
+     "description": "Organisera föreläsningar eller workshops om stresshantering, mindfulness och välbefinnande. Detta kan hjälpa anställda att känna sig mer trygga och relativt till sina arbetsuppgifter."},
+    {"title": "Team-building aktiviteter", 
+     "description": "Planera team-building aktiviteter som främjar samarbete, kommunikation och teamwork. Detta kan vara allt från en dag på äventyrsparken till en stund i naturen."},
+    {"title": "Fika-och-kommunikationshöjande event", 
+     "description": "Organisera fika-och-kommunikationshöjande event som främjar sociala kontakter och samtal bland anställda. Detta kan vara allt från en stund i kaffesalongen till en lunch på taket."}]}

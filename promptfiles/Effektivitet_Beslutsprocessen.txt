@@ -1,0 +1,10 @@
+{"introduction": "En avdelning som vill förbättra sin effektivitet kan göra följande aktiviteter för att minska problemet med beslutsprocessen.", 
+"conclusion": "", 
+"activities": [
+    {"title": "Definiera klara mål och prioriteringar", 
+     "description": "Genom att definiera tydliga mål och prioriteringar kan avdelningen fokusera på de mest viktiga uppgifterna och minska tid som läggs ner på otydliga eller motsägande beslut."},
+    {"title": "Använda tekniska hjälpmedel", 
+     "description": "Avdelningen kan använda olika tekniska verktyg, såsom projektkollaborationstool och workflow-system, för att strukturera och organisera sin arbetsprocess. Detta kan minska tid som läggs ner på kommunikation och koordinering."},
+    {"title": "Träna i beslutsfattande", 
+     "description": "Genom att träna sina anställda i beslutsfattande kan avdelningen förbättra sin förmåga att fatta snabba, informerade och effektiva beslut. Detta kan ske genom workshops, utbildning eller coachning."}
+]}

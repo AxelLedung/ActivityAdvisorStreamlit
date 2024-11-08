@@ -1,0 +1,9 @@
+{"introduction": "En avdelning som vill förbättra arbetstakt kan genomföra följande aktiviteter:", 
+"conclusion": "", 
+"activities": [
+    {"title": "Genomför en inventering", 
+     "description": "Gör en kartläggning över nuvarande arbetsrutiner och identifiera områden där arbetstakt kan förbättras. Denna process hjälper till att fastställa prioriteringar och skapa en grund för framtida åtgärder."},
+    {"title": "Använd tekniska lösningar", 
+     "description": "Utveckla och implementera digitala verktyg som kan hjälpa till att effektivisera arbetet, såsom exempelvis automatiserade uppgifter eller AI-baserad support."},
+    {"title": "Träna personalen", 
+     "description": "Erkänn vikten av en tränad och motiverad personal. Erbjud utbildning och coachning för att hjälpa anställda att utveckla sina färdigheter och arbetssätt."}]}

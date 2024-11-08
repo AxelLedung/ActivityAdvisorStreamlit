@@ -1,0 +1,9 @@
+{"introduction": "En avdelning som vill förbättra lärande i arbetet kan identifiera och åtgärda problematiska omständigheter. Ett vanligt problem är arbete utveklande, där många anställda har rapporterat att de känner sig överbelastade och saknar tid för reflektion och lärande.", 
+"conclusion": "Genom att genomföra aktiviteter som stärker lärandet i arbetet kan avdelningen återgå till en positiv utvecklingsresa. Det är viktigt att lyssna på anställdas behov och förslag, samt att skapa möjligheter för reflektion och lärande.", 
+"activities": [
+{"title": "Prioritera arbete", 
+"description": "Avdelningen kan prioritera arbetet genom att identifiera de mest viktiga uppgifterna och avlasta anställda från onödigtarbete. Detta ger möjlighet till reflektion, lärande och utveckling."},
+{"title": "Skapa tid för reflektion", 
+"description": "Avdelningen kan skapa speciella tider för reflektion och lärande, såsom team meetings eller workshops, där anställda kan dela erfarenheter och lär av varandra."}, 
+{"title": "Använda tekniska verktyg", 
+"description": "Avdelningen kan använda tekniska verktyg som exempelvis e-learning-plattformar för att erbjuda anställda möjlighet till självstudier och lärande på distans."}]}

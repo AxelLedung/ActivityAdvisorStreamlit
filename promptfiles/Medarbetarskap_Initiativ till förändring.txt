@@ -1,0 +1,9 @@
+{"introduction": "En avdelning kan förbättra medarbetarskapet genom att initiera aktiviteter som stimulerar anställdas engagemang och delaktighet i förändringsprocesser.", 
+"conclusion": "", 
+"activities": [
+    {"title": "Angeleda möten", 
+     "description": "Håll regelbundna möten där alla medlemmar har chansen att delta och ge sina synpunkter på hur avdelningen kan förändras."},
+    {"title": "Uppgiftsdistribution", 
+     "description": "Ge anställda möjlighet att ta ansvar för specifika uppgifter eller projekt, vilket kan leda till en känsla av delaktighet och initiativkraft."},
+    {"title": "Feedback-cykel", 
+     "description": "Skapa en återkopplingsslinga där anställda får feedback på sina prestationer och kan utveckla sina färdigheter, vilket kan öka motivationen och engagemanget."}]}

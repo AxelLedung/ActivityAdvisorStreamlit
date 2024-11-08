@@ -1,0 +1,10 @@
+{"introduction": "En avdelning kan förbättra delaktighet genom att påverka vad som händer i organisationen.", 
+"conclusion": "", 
+"activities": [
+    {"title": "Genomför en medarbetarekonomisk undersökning", 
+     "description": "Gör en undersökning bland anställda för att identifiera deras behov och önskemål. Detta kan hjälpa till att skapa ett bättre samarbete mellan ledningen och personalen."},
+    {"title": "Skapa en medarbetarekommitté", 
+     "description": "Tillämpa en kommitté bestående av anställda som representerar olika delar av organisationen. Denna kommitté kan hjälpa till att identifiera och lösa problem."},
+    {"title": "Använd sig själv i beslutsprocesser", 
+     "description": "Ge personalen möjlighet att delta i beslutsprocesserna genom att använda sig själv i olika projekt eller initiativ. Detta kan hjälpa till att öka delaktigheten och motivationen."}
+]}

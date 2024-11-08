@@ -1,0 +1,9 @@
+{"introduction": "I det dagliga arbetet kan många avdelningar uppleva att planering är ett stort problem. Detta kan leda till stress och ineffektivitet bland anställda.", 
+"conclusion": "", 
+"activities": [
+    {"title": "Prioritera arbetsuppgifter", 
+     "description": "En del avdelningar har många uppgifter att hantera, vilket kan göra det svårt att prioritera. En lösning är att skapa en lista över alla uppgifter och sedan prioritera dem baserat på vikten och deadlines."},
+    {"title": "Använd kalender", 
+     "description": "En annan lösning är att använda en kalender för att planera sina dagar. Detta kan hjälpa till att undvika konflikter mellan olika uppgifter och deadlines."}, 
+    {"title": "Skapa rutiner", 
+     "description": "Rutiner kan vara ett sätt att hålla sig på rätt spår, även när det blir stressigt. En del avdelningar kan skapa dagliga eller veckovisa rutiner för sina uppgifter och aktiviteter."}]} 

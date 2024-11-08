@@ -1,0 +1,10 @@
+{"introduction": "En avdelning kan förbättra sin konstruktiva dialog genom att engagera sina anställda i aktiviteter som främjar öppen och respektfull kommunikation.", 
+"conclusion": "", 
+"activities": [
+    {"title": "Ledarskapsutveckling", 
+     "description": "En ledare kan delta i utbildningar eller workshops för att lära sig hur man skapar en positiv atmosfär och stimulerar sina anställda till konstruktiva diskussioner."},
+    {"title": "Feedback-cirkel", 
+     "description": "Anställdas feedback samlas in genom olika kanaler, som exempelvis en digital plattform eller en fysisk mötesrum. Detta hjälper till att identifiera problem och utveckla lösningar."},
+    {"title": "Möten utanför kontoret", 
+     "description": "Avdelningen kan organisera möten på olika platser, som exempelvis i en park eller ett café. Dessa möten hjälper till att skapa en mer relaxerad atmosfär och främja konstruktiva diskussioner."}
+]}

@@ -1,0 +1,9 @@
+{"introduction": "En avdelning kan förbättra återkoppling om många anställda har svarat att följande kategori är ett problem: Kommunicerat vad som förväntas.\n\n", 
+"conclusion": "", 
+"activities": [
+    {"title": "Fastställ klara definitioner och riktlinjer", 
+     "description": "Definiera tydligt vilka uppgifter, ansvar och mål som anställda ska ha. Detta hjälper till att undvika missförstånd och frustration bland personalen."},
+    {"title": "Träna på återkoppling", 
+     "description": "Ge utbildning eller coachning för ledare och medarbetare om vikten av tydlig kommunikation. Detta kan hjälpa till att skapa en kultur där alla känner sig bekräftade och uppmuntrade."},
+    {"title": "Skapa en återkopplingssystem", 
+     "description": "Utveckla ett system för återkoppling som är lättanvänt, effektivt och relevant. Detta kan vara något så enkelt som en regelbunden check-in eller ett digitalt verktyg."}]}

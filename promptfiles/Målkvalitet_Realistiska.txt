@@ -1,0 +1,9 @@
+{"introduction": "Många avdelningar i vår organisation har rapporterat om problem med målkvalitet. Enligt anställdas svar är realistiska mål ett stort problem. För att förbättra denna situation kan en avdelning göra följande aktiviteter:", 
+"conclusion": "Genom dessa aktiviteter hoppas vi att våra avdelningar ska kunna återgå till en mer realistisk och effektiv måluppsättning.", 
+"activities": [
+{"title": "Anpassa målen efter verksamhetens behov", 
+"description": "En avdelning kan starta med att analysera sin egen verksamhet och identifiera de mest viktiga områden som kräver förbättring. Därefter kan man anpassa sina mål så att de är realistiska och relevant för den dagliga verksamheten."}, 
+{"title": "Fokusera på ett fåtal, men relevanta mål", 
+"description": "En annan strategi är att fokusera på ett fåtal, men relevanta mål. Detta kan hjälpa till att undvika spridning av ansträngningen och öka möjligheterna till framgång."}, 
+{"title": "Utveckla en plan för hur man ska nå sina mål", 
+"description": "En tredje aktivitet är att utveckla en detaljerad plan för hur man ska nå sina mål. Detta kan hjälpa till att undvika frustration och öka möjligheterna till framgång."}]}

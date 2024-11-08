@@ -1,0 +1,9 @@
+{"introduction": "En avdelning kan förbättra delaktighet bland anställda genom att ta itu med problemet påverka beslut.", 
+"conclusion": "", 
+"activities": [
+    {"title": "Anslå alla i team", 
+     "description": "Skapa en plattform där alla anställda kan delta och ge sina synpunkter på olika projekt och initiativ. Detta hjälper till att skapa känsla av delaktighet bland alla."},
+    {"title": "Förbättra informationsflödet", 
+     "description": "Se till att information om beslutsprocessen är tydlig och lättillgänglig för alla anställda. Detta hjälper till att minska känslan av ovisshet bland anställda."},
+    {"title": "Skapa en öppen dialog", 
+     "description": "Frambringa en kultur där alla anställda vågar dela sina tankar och idéer. Detta kan ske genom regelbundna möten, workshops eller andra former av samtal."}]}

@@ -1,0 +1,9 @@
+{"introduction": "En avdelning som vill förbättra målkvalitet bland sina anställda kan genomföra följande aktiviteter.", 
+"conclusion": "", 
+"activities": [
+    {"title": "Definiera tydliga mål", 
+     "description": "För att målen ska vara relevanta och uppnåbara, är det viktigt att definiera dem klart och tydligt. Detta kan göras genom att samla in input från alla anställda i avdelningen."}, 
+    {"title": "Genomföra regelbundna feedback-sessions", 
+     "description": "Regelbunda feedback-sessions är ett sätt för anställda att få återkoppling på sina prestationer och mål. Detta kan hjälpa till att skapa en känsla av framgång och motivation."}, 
+    {"title": "Utveckla en systematiskt uppföljning", 
+     "description": "En systematisk uppföljning är ett sätt för avdelningen att kontinuerligt utvärdera sina mål och prestationer. Detta kan hjälpa till att identifiera problemområden och ta åtgärd."}]}

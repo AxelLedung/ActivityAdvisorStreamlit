@@ -1,0 +1,9 @@
+{"introduction": "I den dagliga verksamheten på avdelningen har många anställda rapporterat att ledarskap är ett problem. Ett speciellt område som behöver förbättras är konsekvent agerande, vilket kan leda till osäkerhet och frustration bland personalen.", 
+"conclusion": "Genom att genomföra följande aktiviteter kan avdelningen arbeta mot problemet med ledarskap:", 
+"activities": [
+{"title": "Fastställa tydliga mål och riktlinjer", 
+"description": "Avdelningen ska fastställa tydliga mål och riktlinjer för alla anställda, vilket kommer att hjälpa till att skapa en klar vision om vad som är väntat av varje medarbetare."}, 
+{"title": "Träna ledarskap", 
+"description": "Avdelningen ska erbjuda regelbundna utbildningar och workshops för alla anställda, vilket kommer att hjälpa till att stärka deras ledarskapsförmåga."}, 
+{"title": "Framhäva konsekvent agerande", 
+"description": "Avdelningen ska framhäva vikten av konsekvent agerande genom att belöna och uppmuntra anställda som visar en god inställning till ledarskap."}]}

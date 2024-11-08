@@ -1,0 +1,9 @@
+{"introduction": "En avdelning som upplever ett socialt klimat där kollegor ställer upp kan ha svårt att skapa en positiv och motiverande arbetsmiljö.", 
+"conclusion": "", 
+"activities": [
+    {"title": "Organiserar gemensamma aktiviteter", 
+     "description": "En avdelning som vill förbättra sitt sociala klimat kan organisera gemensamma aktiviteter, såsom luncher eller afterwork-evenemang. Dessa aktiviteter kan hjälpa till att bygga upp relationerna mellan kollegor och skapa en känsla av samhörighet."},
+    {"title": "Skapar en mentorprogram", 
+     "description": "Ett annat sätt för en avdelning att förbättra sitt sociala klimat är genom att skapa ett mentorprogram. Detta kan hjälpa nya anställda att känna sig välkomna och integrerade i teamet, vilket kan leda till bättre samarbete och kommunikation."},
+    {"title": "Anordnar workshops för teamwork", 
+     "description": "En avdelning som vill förbättra sitt sociala klimat kan också anorda workshops eller utbildningar om teamwork. Dessa aktiviteter kan hjälpa kollegor att lära sig varandra och bygga upp relationer, vilket kan leda till en mer positiv arbetsmiljö."}]}
